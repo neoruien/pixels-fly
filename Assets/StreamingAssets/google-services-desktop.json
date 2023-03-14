@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "982179697802",
+    "firebase_url": "https://pixels-fly.firebaseio.com",
+    "project_id": "pixels-fly",
+    "storage_bucket": "pixels-fly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982179697802:android:e9648a872d21a0a59fc973",
+        "android_client_info": {
+          "package_name": "com.orbital.pixelsfly.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982179697802-sf3t193m0arhfaeege4b1rm05cn41864.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCysry2xNLjqVWwRsZqBXSZHhhoHyra5mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982179697802-sf3t193m0arhfaeege4b1rm05cn41864.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "982179697802-3gplsvpha50omalemlcdr35u0r6q092s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.orbital.pixelsfly.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
